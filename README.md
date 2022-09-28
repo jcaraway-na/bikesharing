@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td> :white_check_mark: </td>
-    <td> 3.) Deliverable 3: Add an Additional Map</td>
-    <td><img src="https://github.com/jcaraway-na/Map_Earthquakes/blob/main/resources/Addtechplt1.png" width=100% height=100%></td>
+    <td> 3.) Deliverable 3: Create a Story and Report for the Final Presentation</td>
+    <td><img src="" width=100% height=100%></td>
   </tr>
 </table>
