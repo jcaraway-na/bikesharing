@@ -28,18 +28,30 @@
     <td>Example</td>
   </tr>
   <tr>
-    <td <td> :white_check_mark: </td>
-    <td <td style="height:10px;"> 1.) Change Trip Duration to a Datetime Format</td>
-    <td <td style="height:10px;"> ><img src="https://github.com/jcaraway-na/bikesharing/blob/main/resources/create_original_df.png" width=100% height=100%></td>
+    <td> :white_check_mark: </td>
+    <td style="height:10px;"> 1.) Change Trip Duration to a Datetime Format</td>
+    <td style="height:10px;">
+      <img src="https://github.com/jcaraway-na/bikesharing/blob/main/resources/create_original_df.png" width=100% height=100%>
+      <img src="https://github.com/jcaraway-na/bikesharing/blob/main/resources/check_df_types.png" width=100% height=100%>
+      <img src="https://github.com/jcaraway-na/bikesharing/blob/main/resources/convert_tripduration_type.png" width=100% height=100%>
+      <img src="https://github.com/jcaraway-na/bikesharing/blob/main/resources/check_new_df_types.png" width=100% height=100%>
+      <img src="https://github.com/jcaraway-na/bikesharing/blob/main/resources/export_df_to_new_csv.png" width=100% height=100%>
+    </td>
   </tr>
   <tr>
     <td> :white_check_mark: </td>
     <td style="height:10px;"> 2.) Create Visualizations for the Trip Analysis</td>
-    <td <td style="height:10px;"> ><img src="https://github.com/jcaraway-na/Map_Earthquakes/blob/main/resources/majorearthq.png" width=100% height=100%></td>
+    <td style="height:10px;">
+      <img src="https://github.com/jcaraway-na/bikesharing/blob/main/resources/checkout_times_for_users.png" width=100% height=100%>
+      <img src="https://github.com/jcaraway-na/bikesharing/blob/main/resources/checkout_times_for_users_gender.png" width=100% height=100%>
+      <img src="https://github.com/jcaraway-na/bikesharing/blob/main/resources/trips_by_weekday.png" width=100% height=100%>
+      <img src="https://github.com/jcaraway-na/bikesharing/blob/main/resources/trips_by_weekday_gender.png" width=100% height=100%>
+      <img src="https://github.com/jcaraway-na/bikesharing/blob/main/resources/user_trips_by_gender_by_weekday.png" width=100% height=100%>
+    </td>
   </tr>
   <tr>
     <td> :white_check_mark: </td>
-    <td> 3.) Deliverable 3: Add an Additional Map</td>
-    <td><img src="https://github.com/jcaraway-na/Map_Earthquakes/blob/main/resources/Addtechplt1.png" width=100% height=100%></td>
+    <td> 3.) Deliverable 3: Create a Story and Report for the Final Presentation</td>
+    <td><a href="https://public.tableau.com/app/profile/jennings3722/viz/Book1_16643000597630/Story1?publish=yes">Check it out here...</a></td>
   </tr>
 </table>
