@@ -52,6 +52,6 @@
   <tr>
     <td> :white_check_mark: </td>
     <td> 3.) Deliverable 3: Create a Story and Report for the Final Presentation</td>
-    <td><img src="" width=100% height=100%></td>
+    <td><a href="https://public.tableau.com/app/profile/jennings3722/viz/Book1_16643000597630/Story1?publish=yes">Check it out here...</a></td>
   </tr>
 </table>
